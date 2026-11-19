@@ -1,4 +1,4 @@
-![logo](https://www.canva.com/design/DAHbYJHXTvM/3FvMfeULhEnuTcauaY7TPw/edit?ui=eyJEIjp7IlEiOnsiQSI6dHJ1ZX19fQ)
+![logo](https://github.com/Avantika-09P/Avantika-09P/blob/main/Pink%20and%20White%20Simple%20Lifestyle%20Youtube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Avantika</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
