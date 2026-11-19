@@ -1,4 +1,4 @@
-![logo](https://github.com/Avantika-09P/Avantika-09P/blob/main/Blue%20Geometric%20Technology%20Linkedin%20Banner.png)
+![logo](https://www.canva.com/design/DAHbYJHXTvM/3FvMfeULhEnuTcauaY7TPw/edit?ui=eyJEIjp7IlEiOnsiQSI6dHJ1ZX19fQ)
 <h1 align="center">Hi 👋, I'm Avantika</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
